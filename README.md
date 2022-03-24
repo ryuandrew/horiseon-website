@@ -26,3 +26,6 @@ Beloe are the changed I made in css:
 ## 📝 Notes
 * My published website is: https://ryuandrew.github.io/horiseon-website/
 * My github website is: https://github.com/ryuandrew/horiseon-website
+* Screen shot of the website:
+  
+  ![screen shot](Screen%20Shot%202022-03-24%20at%204.31.19%20PM.png)
